@@ -3,12 +3,6 @@ import Link from 'next/link';
 import React from 'react'
 import { SiGithub, SiLinkedin, SiX } from "react-icons/si";
 
-
-
-
-
-
-
 export default function Navbar({className}:{className?:string}) {
 
     const socials = [ 
@@ -19,13 +13,13 @@ export default function Navbar({className}:{className?:string}) {
         },
 
         {
-            link: "https://github.com/Lynno123",
+            link: "https://wwww.github.com/Lynno123",
             label: "Github",
             Icon: SiGithub,
         },
 
         {
-            link: "https://www.linkedin.com/in/lynno-solohery-37313224b/",
+            link: "https://www.twitter.com/Lynno666",
             label: "X",
             Icon: SiX,
         },
